@@ -31,6 +31,9 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
     features:
+        - navigation.tracking
+        - navigation.sections
+        - navigation.path
         - navigation.indexes
         - navigation.top
         - navigation.tabs
